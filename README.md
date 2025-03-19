@@ -1,3 +1,5 @@
+### Name:Thrishanth.E
+### Reg no:212224230291
 ### study-of-basic-gates
 
 **AIM:** 
@@ -77,7 +79,8 @@ module DE(a,b,yand,yor,ynot,ynand,ynor,yxor,yxnor);
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:Thrishanth RegisterNumber:212224230291 
+ Developed by:Thrishanth 
+ RegisterNumber:212224230291 
  
 **Logic symbol & Truthtable**
 ![image](https://github.com/user-attachments/assets/2cb705cf-8a39-400a-8c99-286e3ec793db)
